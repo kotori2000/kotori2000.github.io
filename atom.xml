@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kotori2000.github.io/"/>
-  <updated>2018-12-03T09:12:20.726Z</updated>
+  <updated>2018-12-03T13:19:13.581Z</updated>
   <id>https://kotori2000.github.io/</id>
   
   <author>
@@ -17,20 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>博客首页</title>
     <link href="https://kotori2000.github.io/2018/12/03/hello-world/"/>
     <id>https://kotori2000.github.io/2018/12/03/hello-world/</id>
     <published>2018-12-03T04:57:52.816Z</published>
-    <updated>2018-12-03T09:12:20.726Z</updated>
+    <updated>2018-12-03T13:19:13.581Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我感受到窗外的叶滑落枝头时的落寞，我感受到南飞的燕远离故乡时的无奈，我感受到深爱的人转身离去时撕心裂肺的痛。也曾感受过前路无迹可寻时的迷茫。我经历了所有，渐渐也忘了喜悦是什么感觉，慢慢的习惯了一无所有，也就懂得了去适应这个世界。<br><a id="more"></a></p><p>佛经有言:这是一个婆娑世界，婆娑既遗憾，没有遗憾，给你再多幸福，也不会体会快乐。当我们一无所有时，正是我们放下了一身的累赘，获得了自由的机会。</p><p>时间从来不会为谁停留，像是风的追逐，总是匆匆地过，春的相识，夏的别离，我们的故事藏在这片土地，有青涩，有成长，有欢笑，有伤感。随着我们的离去，消散在风里。花开于盛夏，叶落于晚秋，我们曾经的美好只是这个地方的一段记忆。百年后，还有几人能回到这里。再续那年的故事。</p><p>离别的伤感总是来的那么突然，让我没有意一丝防备，更不愿去面对，我不想用泪水去送别这段感情，但是你转身离去的画面，却又显得凄惨，你一路远去再未回头，但我知道远去的你早已泪湿眼底。道一句珍重不知还是否会有相逢，这一别可能是一时也可能是一世。时光不老我们不散，愿岁月善待我们的容颜。<br><!-- Welcome to [MyBlog](https://kotori2000.github.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues). --></p><!-- ## Quick Start### Create a new post<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">peace&amp;love</span><br></pre></td></tr></table></figure><p>More info: </p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">broaden my horizen</span><br></pre></td></tr></table></figure><p>More info: </p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nice der~</span><br></pre></td></tr></table></figure><p>More info: </p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><p><code>hello world</code> –&gt;</p>-->]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;我感受到窗外的叶滑落枝头时的落寞，我感受到南飞的燕远离故乡时的无奈，我感受到深爱的人转身离去时撕心裂肺的痛。也曾感受过前路无迹可寻时的迷茫。我经历了所有，渐渐也忘了喜悦是什么感觉，慢慢的习惯了一无所有，也就懂得了去适应这个世界。&lt;br&gt;
     
     </summary>
     

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Gerhardt&#39;s blog</title>
+  <title>王剑浩的博客</title>
   
-  <subtitle>王剑浩的博客</subtitle>
+  <subtitle>GerhardtWang&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kotori2000.github.io/"/>
